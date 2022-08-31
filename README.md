@@ -4,7 +4,5 @@
 
 [SOCKS5️⃣] https://raw.githubusercontent.com/howdout76/proxy/main/socks5.txt
 
-[HTTP] https://raw.githubusercontent.com/howdout76/proxy/main/http.txt
-
 # Ping ms ≈ 100
 # 🇷🇺 🇺🇦 🇧🇾 🇩🇪 🇺🇸 Proxies
