@@ -6,4 +6,4 @@
 
 [HTTP] https://raw.githubusercontent.com/howdout76/proxy/main/http.txt
 
-# RU UA BY US Proxies
+# 🇷🇺 UA BY US Proxies
