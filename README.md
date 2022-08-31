@@ -1,4 +1,4 @@
-# Fresh proxy list
+# ❤ Fresh proxy list
 
 [SOCKS4] https://raw.githubusercontent.com/howdout76/proxy/main/socks4.txt
 
