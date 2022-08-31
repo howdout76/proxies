@@ -7,3 +7,4 @@
 [HTTP] https://raw.githubusercontent.com/howdout76/proxy/main/http.txt
 
 # 🇷🇺 🇺🇦 🇧🇾 🇩🇪 🇺🇸 Proxies
+# Ping ms ≈ 60
