@@ -5,3 +5,5 @@
 [SOCKS5] https://raw.githubusercontent.com/howdout76/proxy/main/socks5.txt
 
 [HTTP] https://raw.githubusercontent.com/howdout76/proxy/main/http.txt
+
+# RU UA BY US Proxies
